@@ -56,6 +56,10 @@
 					"name": "Linked State"
 				},
 				{
+					"path": "/guide/hooks",
+					"name": "Hooks"
+				},
+				{
 					"path": "/guide/external-dom-mutations",
 					"name": "External DOM Mutations"
 				},
