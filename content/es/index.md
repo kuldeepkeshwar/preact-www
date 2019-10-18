@@ -11,7 +11,7 @@ toc: false
         <logo height="1.5em" title="Preact" text inverted>Preact</logo>
     </h1>
     <p>Una alternativa veloz a React en 3kB con la misma API de ES6.</p>
-    <p>
+    <p class="intro-buttons">
         <a href="/guide/v10/getting-started" class="home-button">Primeros pasos</a>
         <span class="home-button-sep">&nbsp; • &nbsp;</span>
         <a href="/guide/v10/switching-to-preact" class="home-button">Cambiar a Preact</a>
@@ -113,7 +113,7 @@ function Counter() {
     </p>
     <ul>
         <li>`props`, `state` y `context` son pasados a `render()`</li>
-        <li>Usa atributos HTML standard como `class` y `for`</li>
+        <li>Usa atributos HTML estandar como `class` y `for`</li>
         <li>Compatible con las herramientas de desarrollo de React</li>
     </ul>
   </div>
@@ -234,7 +234,7 @@ render(
     <p>
         Tenemos guías separadas basadas en tus conocimientos de React.
         <br>
-        ¡Elige la guía que funciona mejor para ti!
+        ¡Elige la guía que mejor de funcione!
     </p>
     <p>
         <a href="/guide/v10/getting-started" class="home-button">Primeros pasos</a>
